@@ -24,19 +24,7 @@
 // Place any jQuery/helper plugins in here.
 /*
  materialize Pagination v0.2.2
- http://mirjamsk.github.io/materialize-pagination/
-
- Sample usage:
-    $('#pagination').materializePagination({ 
-        align: 'left',
-        lastPage:  10,
-        firstPage:  1,
-        urlParameter: 'page',
-        useUrlParameter: true,
-        onClickCallback: function(requestedPage){
-            console.log('Requested page is '+ requestedPage)
-        }
-    });  
+ http://mirjamsk.github.io/materialize-pagination/  
 */
 ;
 (function($, window, document, undefined) {
