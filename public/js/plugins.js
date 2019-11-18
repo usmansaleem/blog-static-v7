@@ -37,7 +37,7 @@
         this.$nextEllipsis = null;
         this.currentPage = null;
         this.visiblePages = [];
-        this.maxVisiblePages = 3;
+        this.maxVisiblePages = 5;
     };
 
     MaterializePagination.prototype = {
